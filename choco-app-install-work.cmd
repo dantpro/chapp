@@ -4,8 +4,6 @@
 ::iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ::choco feature enable -n allowGlobalConfirmation
 
-
-
 choco install 7zip
 choco install azure-data-studio
 
@@ -62,7 +60,3 @@ choco install notepadplusplus
 
 choco install golang
 choco install python3
-
-
-
-
