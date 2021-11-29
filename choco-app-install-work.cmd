@@ -4,15 +4,13 @@
 ::iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ::choco feature enable -n allowGlobalConfirmation
 
-
-
 choco install 7zip
-choco install azure-data-studio
-
-choco install bulkrenameutility
 
 choco install choco-protocol-support
 choco install chocolateygui
+
+choco install bulkrenameutility
+
 choco install conemu
 choco install far
 choco install firefox
@@ -36,17 +34,17 @@ choco install mremoteng
 choco install sharex
 
 choco install sql-server-management-studio
+choco install azure-data-studio
 
 choco install sumatrapdf
 
-#choco install telegram
+::choco install telegram
 
 choco install vscode
 
 choco install winmerge
 
 choco install openssl.light
-
 
 choco install sysinternals
 
@@ -56,7 +54,7 @@ choco install git
 choco install github-desktop
 choco install tortoisegit
 
-#choco install powershell-core
+::choco install powershell-core
 
 choco install notepadplusplus
 
