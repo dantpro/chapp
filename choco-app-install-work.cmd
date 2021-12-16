@@ -45,7 +45,6 @@ choco install winmerge
 
 choco install openssl.light
 
-
 choco install sysinternals
 
 ::choco install nirlauncher /sysinternals
@@ -62,3 +61,12 @@ choco install golang
 choco install python3
 
 choco install miktex
+
+choco install 7-taskbar-tweaker --ignore-checksums
+
+choco install hxd
+
+choco install libreoffice-still
+::choco install libreoffice-fresh
+
+choco install sigil
