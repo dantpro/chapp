@@ -5,18 +5,26 @@
 ::choco feature enable -n allowGlobalConfirmation
 
 choco install 7zip
-choco install azure-data-studio
-
 choco install bulkrenameutility
+
+choco install sysinternals
+::choco install nirlauncher /sysinternals
+
+choco install 7-taskbar-tweaker --ignore-checksums
+
+choco install openssl.light
 
 choco install choco-protocol-support
 choco install chocolateygui
+
 choco install conemu
 choco install far
 choco install firefox
 choco install googlechrome
 
 choco install kindle
+
+choco install sharex
 
 choco install irfanview
 choco install irfanviewplugins
@@ -31,23 +39,19 @@ choco install openjdk11
 choco install putty
 
 choco install mremoteng
-choco install sharex
-
-choco install sql-server-management-studio
 
 choco install sumatrapdf
 
 ::choco install telegram
 
+choco install azure-data-studio
+choco install sql-server-management-studio
+
+choco install notepadplusplus
+
 choco install vscode
 
 choco install winmerge
-
-choco install openssl.light
-
-choco install sysinternals
-
-::choco install nirlauncher /sysinternals
 
 choco install git
 choco install github-desktop
@@ -55,14 +59,10 @@ choco install tortoisegit
 
 ::choco install powershell-core
 
-choco install notepadplusplus
-
 choco install golang
 choco install python3
 
 choco install miktex
-
-choco install 7-taskbar-tweaker --ignore-checksums
 
 choco install hxd
 
@@ -70,4 +70,3 @@ choco install hxd
 choco install libreoffice-fresh
 
 choco install sigil
-
