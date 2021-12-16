@@ -66,7 +66,8 @@ choco install 7-taskbar-tweaker --ignore-checksums
 
 choco install hxd
 
-choco install libreoffice-still
-::choco install libreoffice-fresh
+::choco install libreoffice-still
+choco install libreoffice-fresh
 
 choco install sigil
+
