@@ -74,3 +74,7 @@ choco install sigil
 choco install calibre
 choco install calibre-dedrm
 
+choco install keepass
+
+
+
