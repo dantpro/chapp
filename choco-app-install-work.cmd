@@ -19,13 +19,13 @@ choco install chocolateygui
 
 choco install conemu
 choco install far
+
 choco install firefox
 choco install googlechrome
 
 choco install kindle
 
 choco install sharex
-
 choco install irfanview
 choco install irfanviewplugins
 choco install irfanview-languages
@@ -75,6 +75,3 @@ choco install calibre
 choco install calibre-dedrm
 
 choco install keepass
-
-
-
