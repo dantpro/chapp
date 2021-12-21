@@ -7,7 +7,9 @@
 choco install 7zip
 choco install bulkrenameutility
 
-choco install sysinternals
+::choco install sysinternals
+choco install sysinternals --params "/InstallDir:C:\APP\sysinternals"
+
 ::choco install nirlauncher /sysinternals
 
 choco install 7-taskbar-tweaker --ignore-checksums
