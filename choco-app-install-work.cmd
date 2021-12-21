@@ -47,9 +47,10 @@ choco install sumatrapdf
 choco install azure-data-studio
 choco install sql-server-management-studio
 
-choco install notepadplusplus
-
+choco install visualstudio2019community
 choco install vscode
+
+choco install notepadplusplus
 
 choco install winmerge
 
