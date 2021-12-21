@@ -4,20 +4,19 @@
 ::iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ::choco feature enable -n allowGlobalConfirmation
 
+choco install choco-protocol-support
+choco install chocolateygui
+
 choco install 7zip
 choco install bulkrenameutility
 
 ::choco install sysinternals
-choco install sysinternals --params "/InstallDir:C:\APP\sysinternals"
-
 ::choco install nirlauncher /sysinternals
+choco install sysinternals --params "/InstallDir:C:\APP\sysinternals"
 
 choco install 7-taskbar-tweaker --ignore-checksums
 
 choco install openssl.light
-
-choco install choco-protocol-support
-choco install chocolateygui
 
 choco install conemu
 choco install far
@@ -84,7 +83,4 @@ choco install vim --params "'/InstallDir:C:\APP'"
 ::choco install neovim
 
 ::choco install totalcommander --params "'/InstallPath:%ProgramFiles%\TCMD'"
-
-
-
 
