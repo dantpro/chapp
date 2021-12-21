@@ -76,3 +76,13 @@ choco install calibre
 choco install calibre-dedrm
 
 choco install keepass
+
+::choco install vim --params "'/InstallDir:C:\Program Files (x86)'"
+choco install vim --params "'/InstallDir:C:\APP'"
+::choco install neovim
+
+::choco install totalcommander --params "'/InstallPath:%ProgramFiles%\TCMD'"
+
+
+
+
