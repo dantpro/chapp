@@ -84,3 +84,5 @@ choco install vim --params "'/InstallDir:C:\APP'"
 
 ::choco install totalcommander --params "'/InstallPath:%ProgramFiles%\TCMD'"
 
+choco install imgburn
+
