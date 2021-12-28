@@ -86,3 +86,5 @@ choco install vim --params "'/InstallDir:C:\APP'"
 
 choco install imgburn
 
+choco install openhardwaremonitor
+
