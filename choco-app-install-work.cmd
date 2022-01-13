@@ -90,3 +90,6 @@ choco install openhardwaremonitor
 
 choco install vlc --params "/Language:ru"
 choco install mpv
+
+choco install shotcut
+
