@@ -24,7 +24,6 @@ choco install far
 choco install cmdermini
 choco install clink
 
-
 choco install firefox
 choco install googlechrome
 
