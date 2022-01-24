@@ -3,6 +3,7 @@
 ::Set-ExecutionPolicy Unrestricted
 ::iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
 ::choco feature enable -n allowGlobalConfirmation
+::setx ChocolateyToolsLocation "C:\APP"
 
 choco install choco-protocol-support
 choco install chocolateygui
@@ -20,6 +21,9 @@ choco install openssl.light
 
 choco install conemu
 choco install far
+choco install cmdermini
+choco install clink
+
 
 choco install firefox
 choco install googlechrome
