@@ -96,3 +96,6 @@ choco install mpv
 
 choco install shotcut
 
+::choco install transgui
+
+
