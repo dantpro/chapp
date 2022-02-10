@@ -98,4 +98,4 @@ choco install shotcut
 
 ::choco install transgui
 
-
+choco install strawberryperl --install-arguments="INSTALLDIR=""C:\APP\Strawberry"""
