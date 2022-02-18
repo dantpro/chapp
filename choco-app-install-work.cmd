@@ -66,6 +66,7 @@ choco install tortoisegit
 
 choco install golang
 choco install python3
+::choco install sphinx
 
 choco install miktex
 
@@ -99,3 +100,7 @@ choco install shotcut
 ::choco install transgui
 
 choco install strawberryperl --install-arguments="INSTALLDIR=""C:\APP\Strawberry"""
+
+
+choco install winbox
+
