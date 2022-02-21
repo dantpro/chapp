@@ -104,3 +104,5 @@ choco install strawberryperl --install-arguments="INSTALLDIR=""C:\APP\Strawberry
 
 choco install winbox
 
+choco install megasync
+
