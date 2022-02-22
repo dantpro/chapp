@@ -106,3 +106,6 @@ choco install winbox
 
 choco install megasync
 
+choco install winaero-tweaker
+
+
