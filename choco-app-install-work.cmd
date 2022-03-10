@@ -108,4 +108,8 @@ choco install megasync
 
 choco install winaero-tweaker
 
+choco install k-litecodecpackmega
+
+
+choco install wireshark
 
