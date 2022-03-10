@@ -112,4 +112,5 @@ choco install k-litecodecpackmega
 
 
 choco install wireshark
+choco install nmap
 
