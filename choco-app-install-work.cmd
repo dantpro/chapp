@@ -115,6 +115,7 @@ choco install wireshark
 choco install nmap
 choco install advanced-port-scanner
 choco install advanced-ip-scanner
+choco install portqry
 
 choco install ldapadmin
 
