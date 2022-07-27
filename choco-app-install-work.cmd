@@ -119,3 +119,5 @@ choco install portqry
 
 choco install ldapadmin
 
+choco install rdmfree
+
