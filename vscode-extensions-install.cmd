@@ -1,3 +1,51 @@
 code --install-extension ms-vscode.powershell
 
+::code --list-extensions | % { "code --install-extension $_" }
 
+::NP3
+code --install-extension alefragnani.project-manager
+code --install-extension chipcollier.Theme-OceanKit
+code --install-extension cweijan.epub-reader
+code --install-extension cweijan.vscode-office
+code --install-extension EditorConfig.EditorConfig
+code --install-extension ElAnandKumar.el-vsc-product-icon-theme
+code --install-extension Equinusocio.vsc-community-material-theme
+code --install-extension Equinusocio.vsc-material-theme
+code --install-extension equinusocio.vsc-material-theme-icons
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.code-runner
+code --install-extension funkyremi.vscode-google-translate
+code --install-extension golang.go
+code --install-extension gordonwalkedby.vbnet
+code --install-extension hkato193.jp-katohirohito-extension-vscode-stat-on-statusbar
+code --install-extension Hyzeta.vscode-theme-github-light
+code --install-extension Insigne.powershell
+code --install-extension Ionide.Ionide-fsharp
+code --install-extension James-Yu.latex-workshop
+code --install-extension jtavin.ldif
+code --install-extension MS-CEINTL.vscode-language-pack-ru
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-mssql.data-workspace-vscode
+code --install-extension ms-mssql.mssql
+code --install-extension ms-mssql.sql-bindings-vscode
+code --install-extension ms-mssql.sql-database-projects-vscode
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode-remote.vscode-remote-extensionpack
+code --install-extension ms-vscode.cpptools
+code --install-extension ms-vscode.powershell
+code --install-extension PKief.material-icon-theme
+code --install-extension PKief.material-product-icons
+code --install-extension Shan.code-settings-sync
+code --install-extension space-ocean-kit-refined.space-ocean-kit-refined
+code --install-extension thenikso.github-plus-theme
+code --install-extension tomoki1207.pdf
+code --install-extension torn4dom4n.latex-support
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension vscode-icons-team.vscode-icons
