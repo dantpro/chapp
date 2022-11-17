@@ -122,5 +122,7 @@ choco install ldapadmin
 choco install rdmfree
 
 choco install sqlitebrowser
+choco install heidisql
+
 
 
